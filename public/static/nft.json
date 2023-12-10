@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "/img/collection/1.webp",
+    "title": "Meta Legends #1",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "sand",
+    "special": "fox fire",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 2,
+    "image": "/img/collection/2.webp",
+    "title": "Meta Legends #2",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "spirit",
+    "special": "fox fire",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 3,
+    "image": "/img/collection/3.webp",
+    "title": "Meta Legends #3",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "fox fire",
+    "clothing": "bule kimono"
+  },
+  {
+    "id": 4,
+    "image": "/img/collection/4.webp",
+    "title": "Meta Legends #4",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "sand",
+    "special": "fox fire",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 5,
+    "image": "/img/collection/5.webp",
+    "title": "Meta Legends #5",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "spirit",
+    "special": "fireflies",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 6,
+    "image": "/img/collection/6.webp",
+    "title": "Meta Legends #6",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "fireflies",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 7,
+    "image": "/img/collection/7.webp",
+    "title": "Meta Legends #7",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "spirit",
+    "special": "fireflies",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 8,
+    "image": "/img/collection/8.webp",
+    "title": "Meta Legends #8",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "spirit",
+    "special": "fireflies",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 9,
+    "image": "/img/collection/9.webp",
+    "title": "Meta Legends #9",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "smoke",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 10,
+    "image": "/img/collection/10.webp",
+    "title": "Meta Legends #10",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "sand",
+    "special": "fox fire",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 11,
+    "image": "/img/collection/11.webp",
+    "title": "Meta Legends #11",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "sand",
+    "special": "butterfly",
+    "clothing": "bule kimono"
+  },
+  {
+    "id": 12,
+    "image": "/img/collection/12.webp",
+    "title": "Meta Legends #12",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "spirit",
+    "special": "smoke",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 13,
+    "image": "/img/collection/13.webp",
+    "title": "Meta Legends #13",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "human",
+    "special": "fox fire",
+    "clothing": "bule kimono"
+  },
+  {
+    "id": 14,
+    "image": "/img/collection/14.webp",
+    "title": "Meta Legends #14",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "butterfly",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 15,
+    "image": "/img/collection/15.webp",
+    "title": "Meta Legends #15",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "sand",
+    "special": "butterfly",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 16,
+    "image": "/img/collection/16.webp",
+    "title": "Meta Legends #16",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "butterfly",
+    "clothing": "maroon yukata"
+  },
+  {
+    "id": 17,
+    "image": "/img/collection/17.webp",
+    "title": "Meta Legends #17",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "fire",
+    "special": "smoke",
+    "clothing": "light kimono"
+  },
+  {
+    "id": 18,
+    "image": "/img/collection/18.webp",
+    "title": "Meta Legends #18",
+    "price": "0.07",
+    "quantity": 1,
+    "type": "human",
+    "special": "butterfly",
+    "clothing": "maroon yukata"
+  }
+]

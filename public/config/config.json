@@ -1,0 +1,32 @@
+{
+  "COLLECTIONS": [
+    {
+      "CONTRACT_ADDRESS": "0x39Cee6bA81f05F3E63f2219921b87E4689ECEc27",
+      "NFT_NAME": "Vigoron",
+      "MAX_SUPPLY": 10000,
+      "DISPLAY_COST": 0.001,
+      "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+      "SYMBOL": "DV"
+    },
+    {
+      "CONTRACT_ADDRESS": "0x678846C5728fA87b41bdf1d6692E4B52966A5417",
+      "NFT_NAME": "Vigoron referral",
+      "MAX_SUPPLY": 10000,
+      "DISPLAY_COST": 0.05,
+      "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+      "SYMBOL": "RV"
+    }
+  ],
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x95fE99d5bB14f4B9702b758E69f86fE3F39568c5",
+  "NETWORK": {
+    "NAME": "goerli.",
+    "SYMBOL": "ethereum",
+    "ID": 5
+  },
+  "WEI_COST": 1000000000000000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
+
+
